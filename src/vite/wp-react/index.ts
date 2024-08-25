@@ -59,9 +59,10 @@ export function viteWpReact({
     viteReact({
       jsxRuntime: "automatic",
       babel: {
-        plugins: [["@wordpress/babel-plugin-makepot", {
-					output:`languages/en.pot`
-				}]],
+        plugins: [
+        ["@wordpress/babel-plugin-makepot", { output: `languages/en.pot` }],
+        ["@wordpress/babel-plugin-makepot", { output: `languages/es.pot` }]
+    ],
       },
     }),
     WPEnvProcess({constants})
