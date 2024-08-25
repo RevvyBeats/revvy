@@ -1,0 +1,547 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"X-Generator: babel-plugin-makepot\n"
+
+#: src/components/additional-download-button.tsx:111
+#: src/components/install-button.tsx:160
+msgid "%d Créditos su cuenta podrían ser consumidos."
+msgstr ""
+
+#: src/components/additional-download-button.tsx:138
+#: src/components/install-button.tsx:211
+msgid "Descargar"
+msgstr ""
+
+#: src/components/additional-download-button.tsx:143
+#: src/components/install-button.tsx:236
+#: src/pages/activation/_components/activation-detail.tsx:131
+msgid "Cancelar"
+msgstr ""
+
+#: src/components/additional-download-button.tsx:47
+#: src/components/install-button.tsx:50
+msgid "Licencia Inactiva"
+msgstr ""
+
+#: src/components/additional-download-button.tsx:63
+#: src/components/install-button.tsx:82
+msgid "Exitoso"
+msgstr ""
+
+#: src/components/data-table-faceted-filter.tsx:127
+msgid "Borrar filtros"
+msgstr ""
+
+#: src/components/data-table-faceted-filter.tsx:58
+msgid "%d Seleccionado"
+msgstr ""
+
+#: src/components/data-table-faceted-filter.tsx:82
+#: src/components/filter/filter-item.tsx:83
+msgid "No se encontraron Resultados."
+msgstr ""
+
+#: src/components/data-table-pagination.tsx:31
+msgid "%d Resultado(s) Encontrado(s)"
+msgstr ""
+
+#: src/components/data-table-pagination.tsx:36
+msgid "Elementos por Página"
+msgstr ""
+
+#: src/components/data-table-pagination.tsx:64
+msgid "Página %d de %d"
+msgstr ""
+
+#: src/components/data-table.tsx:107
+msgid "Sin Resultados"
+msgstr ""
+
+#: src/components/filter/collection-bar.tsx:56
+msgid "Filtros"
+msgstr ""
+
+#: src/components/filter/collection-bar.tsx:62
+msgid "Aplicar Filtros"
+msgstr ""
+
+#: src/components/filter/collection-bar.tsx:65
+msgid "Seleccione Filtros para afinar su criterio de búsqueda."
+msgstr ""
+
+#: src/components/filter/filter-item.tsx:130
+msgid "Borrar Filtro"
+msgstr ""
+
+#: src/components/filter/filter-item.tsx:80
+msgid "Buscar"
+msgstr ""
+
+#: src/components/filter/search-input.tsx:31
+msgid "Buscar Título"
+msgstr ""
+
+#: src/components/install-button.tsx:146
+msgid "Reinstalar versión %s"
+msgstr ""
+
+#: src/components/install-button.tsx:168
+msgid "Límite Diario:"
+msgstr ""
+
+#: src/components/install-button.tsx:171
+msgid "Límite Usado:"
+msgstr ""
+
+#: src/components/install-button.tsx:175
+msgid "Límite Total:"
+msgstr ""
+
+#: src/components/install-button.tsx:197
+#: src/pages/updates/_components/updates-table.tsx:68
+msgid "Actualizar"
+msgstr ""
+
+#: src/components/install-button.tsx:198
+#: src/pages/updates/_components/updates-table.tsx:102
+msgid "Reinstalar"
+msgstr ""
+
+#: src/components/install-button.tsx:199
+msgid "Instalar"
+msgstr ""
+
+#: src/components/install-button.tsx:230
+msgid "Revertir"
+msgstr ""
+
+#: src/components/install-button.tsx:69
+msgid "Descargando"
+msgstr ""
+
+#: src/components/install-button.tsx:71
+msgid "Revertir a la versión %s"
+msgstr ""
+
+#: src/components/install-button.tsx:74
+#: src/pages/updates/_components/updates-table.tsx:80
+msgid "Actualizando"
+msgstr ""
+
+#: src/components/install-button.tsx:75
+msgid "Reinstalando"
+msgstr ""
+
+#: src/components/install-button.tsx:76
+msgid "Instalando"
+msgstr ""
+
+#: src/components/mode-toggle.tsx:20
+msgid "Cambiar tema"
+msgstr ""
+
+#: src/components/mode-toggle.tsx:25
+msgid "Claro"
+msgstr ""
+
+#: src/components/mode-toggle.tsx:28
+msgid "Oscuro"
+msgstr ""
+
+#: src/components/mode-toggle.tsx:31
+msgid "Sistema"
+msgstr ""
+
+#: src/components/ui/pagination.tsx:80
+msgid "Anterior"
+msgstr ""
+
+#: src/components/ui/pagination.tsx:95
+msgid "Siguiente"
+msgstr ""
+
+#: src/pages/_app.tsx:20
+msgid "¡UPS!"
+msgstr ""
+
+#: src/pages/_app.tsx:23
+msgid "Algo Salió Mal"
+msgstr ""
+
+#: src/pages/_app.tsx:33
+msgid "Volver"
+msgstr ""
+
+#: src/pages/_components/InstallStats.tsx:34
+msgid "Temas"
+msgstr ""
+
+#: src/pages/_components/InstallStats.tsx:40
+msgid "Plugins"
+msgstr ""
+
+#: src/pages/_components/InstallStats.tsx:51
+msgid "Recursos Instalados"
+msgstr ""
+
+#: src/pages/_components/InstallStats.tsx:54
+msgid "Instalado"
+msgstr ""
+
+#: src/pages/_components/InstallStats.tsx:57
+msgid "Elementos"
+msgstr ""
+
+#: src/pages/_components/announcements.tsx:17
+msgid "Anuncios"
+msgstr ""
+
+#: src/pages/_components/announcements.tsx:23
+msgid "Ver Todo"
+msgstr ""
+
+#: src/pages/_components/announcements.tsx:45
+msgid "Actualizado %s"
+msgstr ""
+
+#: src/pages/_components/announcements.tsx:54
+msgid "No hay Nuevos Anuncios"
+msgstr ""
+
+#: src/pages/_components/available-updates.tsx:22
+msgid "Actualizaciones de Elementos"
+msgstr ""
+
+#: src/pages/_components/available-updates.tsx:45
+msgid "Disponible: %d"
+msgstr ""
+
+#: src/pages/_components/available-updates.tsx:48
+msgid "Instalado: %d"
+msgstr ""
+
+#: src/pages/_components/available-updates.tsx:59
+msgid "No se Encontró Actualización"
+msgstr ""
+
+#: src/pages/_components/available-updates.tsx:68
+msgid "Ver Todas Las Actualizaciones"
+msgstr ""
+
+#: src/pages/activation/_components/activation-detail.tsx:111
+msgid "¿Estás absolutamente seguro?"
+msgstr ""
+
+#: src/pages/activation/_components/activation-detail.tsx:114
+msgid "¿Quiere Desactivar la Licencia?"
+msgstr ""
+
+#: src/pages/activation/_components/activation-detail.tsx:125
+msgid "Desactivar"
+msgstr ""
+
+#: src/pages/activation/_components/activation-detail.tsx:58
+msgid "Licencia Desactivada con Éxito"
+msgstr ""
+
+#: src/pages/activation/_components/activation-detail.tsx:63
+msgid "Error al Desactivar la Licencia"
+msgstr ""
+
+#: src/pages/activation/_components/activation-detail.tsx:78
+msgid "Expira:"
+msgstr ""
+
+#: src/pages/activation/_components/activation-detail.tsx:86
+msgid "Estado:"
+msgstr ""
+
+#: src/pages/activation/_components/activation-detail.tsx:90
+msgid "ID de Instalación:"
+msgstr ""
+
+#: src/pages/activation/_components/register-license.tsx:46
+msgid "Licencia Activada con Éxito"
+msgstr ""
+
+#: src/pages/activation/_components/register-license.tsx:52
+msgid "Error al Activar la Licencia"
+msgstr ""
+
+#: src/pages/activation/_components/register-license.tsx:72
+msgid "Introduzca el Código de su Licencia"
+msgstr ""
+
+#: src/pages/activation/_components/register-license.tsx:89
+#: src/pages/activation/index.tsx:20
+msgid "Activar Licencia"
+msgstr ""
+
+#: src/pages/activation/index.tsx:13
+msgid "Activación de Licencia"
+msgstr ""
+
+#: src/pages/activation/index.tsx:19
+msgid "Detalle de Activación"
+msgstr ""
+
+#: src/pages/history/-[page].tsx:17
+msgid "Historial"
+msgstr ""
+
+#: src/pages/history/_components/history-items.tsx:21
+msgid "Título"
+msgstr ""
+
+#: src/pages/history/_components/history-items.tsx:40
+msgid "Tipo"
+msgstr ""
+
+#: src/pages/history/_components/history-items.tsx:51
+#: src/pages/item/[type]/detail/[id]/_components/changelog-preview.tsx:41
+msgid "Fecha"
+msgstr ""
+
+#: src/pages/history/_components/history-items.tsx:59
+#: src/pages/item/[type]/detail/[id]/_components/changelog-preview.tsx:33
+#: src/pages/item/[type]/detail/[id]/_components/item-detail.tsx:19
+msgid "Versión"
+msgstr ""
+
+#: src/pages/item/[type]/-[page]/index.tsx:141
+#: src/pages/item/[type]/detail/[id]/_components/item-detail.tsx:81
+msgid "Acceso"
+msgstr ""
+
+#: src/pages/item/[type]/-[page]/index.tsx:217
+msgid "Página %d"
+msgstr ""
+
+#: src/pages/item/[type]/detail/[id]/-[tab].tsx:42
+#: src/pages/item/[type]/detail/[id]/_components/item-description.tsx:17
+msgid "Descripción"
+msgstr ""
+
+#: src/pages/item/[type]/detail/[id]/-[tab].tsx:47
+#: src/pages/item/[type]/detail/[id]/_components/changelog-preview.tsx:68
+#: src/pages/item/[type]/detail/[id]/_components/item-changelog.tsx:91
+msgid "Registro de Cambios"
+msgstr ""
+
+#: src/pages/item/[type]/detail/[id]/-[tab].tsx:53
+msgid "Contenidos de Demostración [%d]"
+msgstr ""
+
+#: src/pages/item/[type]/detail/[id]/-[tab].tsx:59
+msgid "Documentación"
+msgstr ""
+
+#: src/pages/item/[type]/detail/[id]/-[tab].tsx:65
+#: src/pages/item/[type]/detail/[id]/_components/detail-tab-headers.tsx:31
+msgid "Soporte"
+msgstr ""
+
+#: src/pages/item/[type]/detail/[id]/-[tab].tsx:73
+msgid "Detalle del Elemento"
+msgstr ""
+
+#: src/pages/item/[type]/detail/[id]/_components/changelog-preview.tsx:75
+#: src/pages/item/[type]/detail/[id]/_components/demo-content-preview.tsx:33
+#: src/pages/item/[type]/detail/[id]/_components/item-changelog.tsx:108
+#: src/pages/item/[type]/detail/[id]/_components/item-demo-contents.tsx:104
+msgid "Cargando..."
+msgstr ""
+
+#: src/pages/item/[type]/detail/[id]/_components/changelog-preview.tsx:77
+#: src/pages/item/[type]/detail/[id]/_components/demo-content-preview.tsx:35
+#: src/pages/item/[type]/detail/[id]/_components/item-changelog.tsx:110
+#: src/pages/item/[type]/detail/[id]/_components/item-demo-contents.tsx:106
+msgid "No se encontraron Elementos"
+msgstr ""
+
+#: src/pages/item/[type]/detail/[id]/_components/changelog-preview.tsx:86
+#: src/pages/item/[type]/detail/[id]/_components/demo-content-preview.tsx:44
+msgid "Ver Más"
+msgstr ""
+
+#: src/pages/item/[type]/detail/[id]/_components/demo-content-preview.tsx:26
+#: src/pages/item/[type]/detail/[id]/_components/item-demo-contents.tsx:87
+msgid "Contenidos de la Demostración"
+msgstr ""
+
+#: src/pages/item/[type]/detail/[id]/_components/detail-header.tsx:40
+msgid "Recientemente Actualizado"
+msgstr ""
+
+#: src/pages/item/[type]/detail/[id]/_components/detail-header.tsx:52
+msgid "Demostración Incluida"
+msgstr ""
+
+#: src/pages/item/[type]/detail/[id]/_components/detail-tab-content.tsx:14
+msgid "¿Pestaña Inválida?"
+msgstr ""
+
+#: src/pages/item/[type]/detail/[id]/_components/detail-tab-headers.tsx:57
+msgid "Vista Previa en Vivo"
+msgstr ""
+
+#: src/pages/item/[type]/detail/[id]/_components/item-detail.tsx:20
+msgid "Slug"
+msgstr ""
+
+#: src/pages/item/[type]/detail/[id]/_components/item-detail.tsx:21
+msgid "Estado"
+msgstr ""
+
+#: src/pages/item/[type]/detail/[id]/_components/item-detail.tsx:23
+msgid "Actualizado"
+msgstr ""
+
+#: src/pages/item/[type]/detail/[id]/_components/item-detail.tsx:27
+msgid "Publicado"
+msgstr ""
+
+#: src/pages/item/[type]/detail/[id]/_components/item-detail.tsx:31
+msgid "Autor"
+msgstr ""
+
+#: src/pages/item/[type]/detail/[id]/_components/item-detail.tsx:41
+msgid "Columnas"
+msgstr ""
+
+#: src/pages/item/[type]/detail/[id]/_components/item-detail.tsx:50
+msgid "Optimizado para Gutenberg"
+msgstr ""
+
+#: src/pages/item/[type]/detail/[id]/_components/item-detail.tsx:61
+msgid "Alta resolución"
+msgstr ""
+
+#: src/pages/item/[type]/detail/[id]/_components/item-detail.tsx:71
+msgid "Listo para Widgets"
+msgstr ""
+
+#: src/pages/item/[type]/detail/[id]/_components/item-detail.tsx:91
+msgid "Detalles"
+msgstr ""
+
+#: src/pages/item/[type]/detail/[id]/_components/item-sidebar.tsx:30
+msgid "Descargas"
+msgstr ""
+
+#: src/pages/item/[type]/detail/[id]/_components/item-sidebar.tsx:41
+msgid "Instalaciones"
+msgstr ""
+
+#: src/pages/item/[type]/detail/[id]/_components/item-sidebar.tsx:51
+msgid "Etiquetas"
+msgstr ""
+
+#: src/pages/item/[type]/detail/[id]/_components/item-sidebar.tsx:55
+msgid "Navegadores"
+msgstr ""
+
+#: src/pages/item/[type]/detail/[id]/_components/item-sidebar.tsx:59
+msgid "Compatible con"
+msgstr ""
+
+#: src/pages/item/[type]/detail/[id]/_components/item-sidebar.tsx:63
+msgid "Archivos Incluidos"
+msgstr ""
+
+#: src/pages/item/[type]/detail/[id]/_components/item-sidebar.tsx:67
+msgid "Versiones de Software"
+msgstr ""
+
+#: src/pages/item/[type]/detail/[id]/_components/item-virus-total.tsx:14
+msgid "Virus Total"
+msgstr ""
+
+#: src/pages/item/[type]/detail/[id]/_components/item-virus-total.tsx:21
+msgid "Ver Detalles"
+msgstr ""
+
+#: src/pages/item/[type]/detail/[id]/_components/item-virus-total.tsx:34
+msgid "%d Amenazas"
+msgstr ""
+
+#: src/pages/item/[type]/detail/[id]/_components/item-virus-total.tsx:49
+msgid "Escaneando..."
+msgstr ""
+
+#: src/pages/updates/_components/autoupdate-switch.tsx:35
+msgid "Actualizando Autoupdate"
+msgstr ""
+
+#: src/pages/updates/_components/autoupdate-switch.tsx:42
+msgid "Autoupdate Gabilitado"
+msgstr ""
+
+#: src/pages/updates/_components/autoupdate-switch.tsx:43
+msgid "Autoupdate deshabilitado"
+msgstr ""
+
+#: src/pages/updates/_components/updates-table.tsx:114
+msgid "Reinstalando"
+msgstr ""
+
+#: src/pages/updates/_components/updates-table.tsx:117
+msgid "Reinstalación Exitosa"
+msgstr ""
+
+#: src/pages/updates/_components/updates-table.tsx:121
+msgid "Error al Instalar"
+msgstr ""
+
+#: src/pages/updates/_components/updates-table.tsx:136
+msgid "Habilitar Autoupdate"
+msgstr ""
+
+#: src/pages/updates/_components/updates-table.tsx:149
+msgid "Habilitando Autoupdate"
+msgstr ""
+
+#: src/pages/updates/_components/updates-table.tsx:152
+msgid "Autoupdate Habilitado"
+msgstr ""
+
+#: src/pages/updates/_components/updates-table.tsx:156
+msgid "Error al Habilitar Autoupdate"
+msgstr ""
+
+#: src/pages/updates/_components/updates-table.tsx:176
+msgid "Deshabilitar Autoupdate"
+msgstr ""
+
+#: src/pages/updates/_components/updates-table.tsx:189
+msgid "Deshabilitando Autoupdate"
+msgstr ""
+
+#: src/pages/updates/_components/updates-table.tsx:192
+msgid "Autoupdate Deshabilitado"
+msgstr ""
+
+#: src/pages/updates/_components/updates-table.tsx:196
+msgid "Error al Deshabilitar Autoupdate"
+msgstr ""
+
+#: src/pages/updates/_components/updates-table.tsx:83
+msgid "Éxito"
+msgstr ""
+
+#: src/pages/updates/_components/updates-table.tsx:87
+msgid "Error"
+msgstr ""
+
+#: src/pages/updates/index.tsx:14
+msgid "Actualizaciones"
+msgstr ""
+
+#: src/zod/license.ts:6
+msgid "El Campo del Código de Licencia está Vacío"
+msgstr ""
+
+#: src/zod/license.ts:7
+msgid "Introduzca un Código de Licencia Válido"
+msgstr ""
